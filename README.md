@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/karim-tchaleu-53043b204/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring cybersecurity professional actively building expertise in both technical and GRC domains. Currently studying cybersecurity, computer science, and Geographic Information Systems (GIS), gaining hands-on experience through internships and trainings.
+Aspiring cybersecurity professional actively building expertise in both technical and GRC domains. Currently studying cybersecurity and computer science, gaining hands-on experience through internships and IT fundamentals training.
 
 ## Objective
 
